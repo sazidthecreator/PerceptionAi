@@ -46,7 +46,7 @@ pip install reflex
 
 ## 🥳 Create your first app
 
-Installing `reflex` also installs the `reflex` command line tool.
+Installing `PerceptionAi` also installs the `PerceptionAi` command line tool.
 
 Test that the install was successful by creating a new project. (Replace `my_app_name` with your project name):
 
@@ -163,7 +163,7 @@ This `index` function defines the frontend of the app.
 We use different components such as `center`, `vstack`, `input`, and `button` to build the frontend. Components can be nested within each other
 to create complex layouts. And you can use keyword args to style them with the full power of CSS.
 
-Reflex comes with [60+ built-in components](https://reflex.dev/docs/library) to help you get started. We are actively adding more components, and it's easy to [create your own components](https://reflex.dev/docs/wrapping-react/overview/).
+PerceptionAi comes with [60+ built-in components](https://reflex.dev/docs/library) to help you get started. We are actively adding more components, and it's easy to [create your own components](https://reflex.dev/docs/wrapping-react/overview/).
 
 ### **State**
 
@@ -232,7 +232,7 @@ You can create a multi-page app by adding more pages.
 
 Reflex launched in December 2022 with the name Pynecone.
 
-🚀 Introducing [Reflex Build](https://build.reflex.dev/) — Our AI-Powered Builder
+🚀 Introducing [PerceptionAi ~ Reflex Build](https://build.reflex.dev/) — Our AI-Powered Builder
 Reflex Build uses AI to generate complete full-stack Python applications. It helps you quickly create, customize, and refine your Reflex apps — from frontend components to backend logic — so you can focus on your ideas instead of boilerplate code. Whether you’re prototyping or scaling, Reflex Build accelerates development by intelligently scaffolding and optimizing your app’s entire stack.
 
 Alongside this, [Reflex Cloud](https://cloud.reflex.dev) launched in 2025 to offer the best hosting experience for your Reflex apps. We’re continuously improving the platform with new features and capabilities.
