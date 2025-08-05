@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex.svg" alt="Reflex Logo" width="300px">
+<img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex.svg" alt="PerceptionAi Logo" width="300px">
 
 <hr>
 
